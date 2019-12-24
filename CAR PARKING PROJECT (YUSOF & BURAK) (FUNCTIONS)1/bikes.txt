@@ -1,0 +1,10 @@
+BIKE
+First Name: Burak
+Last Name: Kepuc
+Vehicle Number: 22
+Customer Number: 45
+BIKE
+First Name: Burak
+Last Name: Kepuc
+Vehicle Number: 44
+Customer Number: 21
